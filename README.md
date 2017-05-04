@@ -20,11 +20,13 @@ npm is short for Node Package Manager and it have two major roles:
 2. it is a command-line utility for interacting with said repository that aids in package installation, version management, and dependency management.
 
 ### We will use npm alot and actually this is a very common tool  that developers use in everyday code!
-In order to use npm you must install node.js on your computer: https://nodejs.org/en/ 
+In order to use npm you must install node.js on your computer: 
 <br>
-You can learn about node js and npm in many places over the internet
+https://nodejs.org/en/ 
 <br>
-like this for example : https://docs.npmjs.com/getting-started/installing-node
+You can learn about node js and npm in many places over the internetlike this for example :
+<br>
+https://docs.npmjs.com/getting-started/installing-node
 <br>
 
 
