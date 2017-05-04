@@ -54,6 +54,7 @@ Do not worry, we will talk about everyone of them during the tutorial, but now, 
 <br>
 If you use VSCode editor (as I'm) go to the top menu bar -->View ---> Integrated Terminal or simply press Ctrl + ` 
  <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-4.JPG" with="500"/>
+This will open a terminal box at the bottom of the edtior:
  <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-5.JPG" with="500"/>
 
 
