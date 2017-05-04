@@ -47,8 +47,7 @@ As writen in <a href="https://angular.io/docs/ts/latest/guide/npm-packages.html#
 The dependencies section contains:
 <br><br>
   <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-2.JPG" with="500"/>
-<br>
-#### The Features part is the most important one:
+<u>The Features part is the most important one:</u>
 <br><br>
   <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-3.JPG" with="500"/>
 
