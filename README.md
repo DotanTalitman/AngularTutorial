@@ -8,7 +8,7 @@ First,we will use the VSCode  editor , but fell free to use any code editor or I
 <br>
 I opened a new directory and and named it "angular4"
 <br>
-<img width="900" src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture1.JPG"/>
+<img width="900" src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture1.JPG?d=1"/>
 <br>
 As I mentioned , this tutorial will guide you from zero , you will not download or clone some boilerplate or any other pre made code ,so you wiil be able to realy understand the basic concepts and the idea behind angular.
 
