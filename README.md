@@ -24,11 +24,17 @@ In order to use npm you must install node.js on your computer:
 <br>
 https://nodejs.org/en/ 
 <br>
-You can learn about node js and npm in many places over the interne tlike this for example :
+You can learn about node js and npm in many places over the internet like here for example :
 <br>
 https://docs.npmjs.com/getting-started/installing-node
 <br>
-For developing angular application you will not need to understand node.js as so don't worry, just install it on your computer so you be able to use npm.
+For developing angular applications you will not need to understand node.js  so don't worry, just install it on your computer so you be able to use npm.
+
+<br>
+For now we will use npm only for downloading the libraries(packages)  that we need for our project.
+<br>
+Later we will use another powerful tools of npm !
+
 
 
 
