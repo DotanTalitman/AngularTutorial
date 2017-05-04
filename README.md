@@ -4,7 +4,7 @@ Angular 2-4 tutorial step by step.
 ### This tutorial will be from zero ,we will walk step by step from scratch!!
 
 ## Let's start 
-First,we will use the VSCode  editor , but fell free to use any code editor or IDE that you preferd
+First,we will use the VSCode  editor , but fell free to use any code editor or IDE that you preferd.
 <br>
 I opened a new directory and and named it "angular4project"
 <br>
@@ -28,12 +28,22 @@ You can learn about node js and npm in many places over the internet like here f
 <br>
 https://docs.npmjs.com/getting-started/installing-node
 <br>
-For developing angular applications you will not need to understand node.js  so don't worry, just install it on your computer so you be able to use npm.
-
+##### For developing angular applications you will not need to understand node.js  so don't worry, just install it on your computer so you be able to use npm.
 <br>
 For now we will use npm only for downloading the libraries(packages)  that we need for our project.
 <br>
 Later we will use another powerful tools of npm !
+<br>
+
+## Dependencies
+Dependencies are essential js packages that we need to have for running our angular application.
+There are two kinds of dependencies:
+##### Dependencies and devDevpendencies(we will talk later about third kind of dependency called peerDependencies)
+If you familiar with angularjs (angular 1.x) you probably knows that all you need is to put in your project the angularjs library and that it! maby you will need the ngRoute library but you dont have to.. with Angular (2..4..)  it is a different story.
+In order to make Angular more modular the Angular team has split the angular library to many smaller chunks.
+each "chunk" has important role in the angular pazzle.
+
+
 
 
 
