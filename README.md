@@ -1,5 +1,5 @@
 # AngularTutorial
-Angular 2-4 tutorial step by step
+Angular 2-4 tutorial step by step.
 
 ### This tutorial will be from zero ,we will walk step by step from scratch!!
 
@@ -19,9 +19,15 @@ npm is short for Node Package Manager and it have two major roles:
 1. it is an online repository for the publishing of open-source Node.js projects.
 2. it is a command-line utility for interacting with said repository that aids in package installation, version management, and dependency management.
 
-
 ### We will use npm alot and actually this is a very common tool  that developers use in everyday code!
-In order to use npm you must install node.js on your computer: https://nodejs.org/en/
+In order to use npm you must install node.js on your computer: https://nodejs.org/en/ 
+<br>
+You can learn about node js and npm in many places over the internet
+<br>
+like this for example : https://docs.npmjs.com/getting-started/installing-node
+<br>
+
+
 
 
 
