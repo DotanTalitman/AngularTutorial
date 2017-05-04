@@ -47,12 +47,14 @@ As writen in <a href="https://angular.io/docs/ts/latest/guide/npm-packages.html#
 The dependencies section contains:
 <br><br>
   <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-2.JPG" with="500"/>
-<u>The Features part is the most important one:</u>
-<br><br>
+#### The Features part is the most important one:
   <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-3.JPG" with="500"/>
 
-  
-
+Do not worry, we will talk about everyone of them during the tutorial, but now, let's install them, and by saying install i actually mean download  them, and we will do it with npm.
+<br>
+If you use VSCode editor (as I'm) go to the top menu bar -->View ---> Integrated Terminal or simply press Ctrl + ` 
+ <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-4.JPG" with="500"/>
+ <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-5.JPG" with="500"/>
 
 
 
