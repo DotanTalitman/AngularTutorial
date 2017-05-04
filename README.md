@@ -43,6 +43,17 @@ If you familiar with angularjs (angular 1.x) you probably knows that all you nee
 In order to make Angular more modular the Angular team has split the angular library to many smaller chunks.
 each "chunk" has important role in the angular pazzle.
 
+As writen in <a href="https://angular.io/docs/ts/latest/guide/npm-packages.html#!#dependencies">angular.io site</a>
+The dependencies section contains:
+<br><br>
+  <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-2.JPG" with="500"/>
+<br>
+#### The Features part is the most important one:
+<br><br>
+  <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-3.JPG" with="500"/>
+
+  
+
 
 
 
