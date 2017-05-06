@@ -10,7 +10,7 @@ I opened a new directory and and named it "angular4project"
 <br>
 <img width="900" src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-1.JPG"/>
 <br>
-As I mentioned , this tutorial will guide you from zero , You will not be needed to download or clone some boilerplate or any other pre made code . This way, you will really understand the core concept and the idea behind angular.
+As I mentioned , this tutorial will guide you from the ground up ,you will not be needed to download or clone some boilerplate or any other pre made code . This way, you will really understand the core concept and the idea behind angular.
 <br>
 # NPM
 
