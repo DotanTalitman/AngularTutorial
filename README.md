@@ -28,7 +28,7 @@ You can learn about node js and npm in many places over the internet like here f
 <br>
 https://docs.npmjs.com/getting-started/installing-node
 <br>
-##### For developing angular applications you will not need to understand node.js  so don't worry, just install it on your computer so you be able to use npm.
+##### For developing angular applications you will not be needed to understand node.js  so don't worry, just install it on your computer so you be able to use npm.
 <br>
 For now we will use npm only for downloading the libraries(packages)  that we need for our project.
 <br>
@@ -50,7 +50,7 @@ The dependencies section contains:
 #### The Features part is the most important one:
   <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-3.JPG" with="500"/>
 
-Do not worry, we will talk about everyone of them during the tutorial, but now, let's install them, and by saying install i actually mean download  them, and we will do it with npm.
+Do not worry, we will talk about everyone of them during the tutorial, but for now, let's install them, and by saying install i actually mean download  them, and we will do it with npm.
 <br>
 If you use VSCode editor (as I'm) go to the top menu bar -->View ---> Integrated Terminal or simply press Ctrl + ` 
  <img src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-4.JPG" with="500"/>
