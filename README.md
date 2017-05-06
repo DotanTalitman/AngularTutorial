@@ -1,7 +1,7 @@
 # AngularTutorial
 Angular 2-4 tutorial step by step.
 
-### This tutorial will be from zero ,we will walk step by step from scratch!!
+### This tutrial will be from the ground up ,we will walk step by step from scratch!!
 
 ## Let's start 
 First,we will use the VSCode  editor , but fell free to use any code editor or IDE that you preferd.
@@ -10,7 +10,7 @@ I opened a new directory and and named it "angular4project"
 <br>
 <img width="900" src="https://github.com/DotanTalitman/AngularTutorial/blob/master/Capture-1.JPG"/>
 <br>
-As I mentioned , this tutorial will guide you from zero , you will not download or clone some boilerplate or any other pre made code ,so you wiil be able to realy understand the basic concepts and the idea behind angular.
+As I mentioned , this tutorial will guide you from zero , You will not be needed to download or clone some boilerplate or any other pre made code . This way, you will really understand the core concept and the idea behind angular.
 <br>
 # NPM
 
@@ -41,7 +41,7 @@ There are two kinds of dependencies:
 ##### Dependencies and devDevpendencies(we will talk later about third kind of dependency called peerDependencies)
 If you familiar with angularjs (angular 1.x) you probably knows that all you need is to put in your project the angularjs library and that it! maby you will need the ngRoute library but you dont have to.. with Angular (2..4..)  it is a different story.
 In order to make Angular more modular the Angular team has split the angular library to many smaller chunks.
-each "chunk" has important role in the angular pazzle.
+each "chunk" has important role in the angular puzzle.
 
 As writen in <a href="https://angular.io/docs/ts/latest/guide/npm-packages.html#!#dependencies">angular.io site</a>
 The dependencies section contains:
