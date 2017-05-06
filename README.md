@@ -1,7 +1,7 @@
 # AngularTutorial
 Angular 2-4 tutorial step by step.
 
-### This tutrial will be from the ground up ,we will walk step by step from scratch!!
+### This tutorial will be from the ground up ,we will walk step by step from scratch!!
 
 ## Let's start 
 First,we will use the VSCode  editor , but fell free to use any code editor or IDE that you preferd.
