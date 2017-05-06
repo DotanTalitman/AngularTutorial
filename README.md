@@ -39,7 +39,7 @@ Later we will use another powerful tools of npm !
 Dependencies are essential js packages that we need to have for running our angular application.
 There are two kinds of dependencies:
 #### Dependencies and devDevpendencies(we will talk later about third kind of dependency called peerDependencies)
-If you familiar with angularjs (angular 1.x) you probably knows that all you need is to put in your project the angularjs library and that it! maby you will need the ngRoute library but you dont have to.. with Angular (2..4..)  it is a different story.
+If you familiar with angularjs (angular 1.x) you probably knows that all you need is to place angularjs library in your project and that it! maby you will need the ngRoute library but you dont have to.. with Angular (2..4..)  it is a different story.
 In order to make Angular more modular the Angular team has split the angular library to many smaller chunks.
 each "chunk" has important role in the angular puzzle.
 
